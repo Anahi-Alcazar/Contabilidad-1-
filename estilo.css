@@ -1,0 +1,107 @@
+
+.caja {
+    border-radius:  70px 70px 70px 70px;
+    background: #FEF9E7;
+    color: #545454;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 2em 2em 4em;
+}
+
+
+img{
+    border-radius:  50px 50px 50px 50px;
+    border-width: 2px;
+
+}
+
+h1{ 
+   /*Titulos*/ 
+    color: #000000;
+    font-family:inherit;
+    font-size: 30px;
+}
+
+h2{
+    /*sub titulos*/
+    color: #545454;
+    font-family: inherit;
+    font-size: 20px;
+}
+
+h3{
+    /*mini cajas teoria*/
+   border-radius:  48px 48px 48px 48px;
+    background: #EAEDED;
+    color: #545454;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 700px;
+    padding: 2em 2em 2em;
+}
+
+h4{
+    /*sub titulos teoria */
+    color: #222;
+    font-family: inherit;
+    font-size: 23px;
+}
+
+h5{
+    /*mini caja formulario*/
+    border-radius:  10px 10px 10px 10px;
+    background: #EAEDED;
+    color: #222;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 700px;
+    padding: 2em 2em 2em;
+}
+
+h5{
+    /*mini caja menu*/
+    border-radius:  10px 10px 10px 10px;
+    background: #EAEDED;
+    color: #222;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 700px;
+    padding: 2em 2em 2em;
+}
+
+.texto{
+    font-family: cursive;
+    font-size: 25px;
+    color: #333333;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #000;
+    text-align: left;
+}
+
+form input[type="number"]{
+    
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+
+.boton-personalizado{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#333333;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#FFD27D;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+    
+}

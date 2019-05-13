@@ -1,0 +1,55 @@
+html {
+    
+    background: #F5B041;
+}
+
+body {
+    
+    border-radius:  70px 70px 70px 70px;
+    background: #FEF9E7;
+    box-shadow: 21px 15px 26px 0px rgba(185, 119, 14);
+    color: #545454;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+
+}
+
+
+h1{
+   /*Titulos*/ 
+    color: #000000;
+    font-family:inherit;
+    font-size: 30px;
+}
+
+h2{
+    /*sub titulos*/
+    color: #545454;
+    font-family: inherit;
+    font-size: 20px;
+}
+
+form input[type="number"]{
+    
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+
+.boton-personalizado{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#333333;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#FFD27D;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+    
+}
